@@ -76,7 +76,7 @@
     "webpack": "^5.94.0",
     "webpack-config-utils": "^2.3.0",
     "webpack-dev-middleware": "^5.3.4",
-    "webpack-dev-server": "^2.5.0"
+    "webpack-dev-server": "^5.2.1"
   },
   "pre-push": []
 }
